@@ -1,0 +1,3 @@
+/home/dji/Desktop/shaobing_7/build/CMakeFiles/edit_cache.dir
+/home/dji/Desktop/shaobing_7/build/CMakeFiles/findarmor.dir
+/home/dji/Desktop/shaobing_7/build/CMakeFiles/rebuild_cache.dir
